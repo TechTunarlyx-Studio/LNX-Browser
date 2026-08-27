@@ -1,0 +1,6 @@
+{
+  "name": "LNX Browser",
+  "description": "Modern Chromium tabanlı güçlü web tarayıcısı - Multi-tab, DevTools, LNX Shields ve dahili web motoru.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
